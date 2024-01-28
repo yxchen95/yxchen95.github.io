@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuo Xing"
+title                    : "Yixin Chen"
 title_separator          : "-"
-name                     : &name "Shuo Xing"
+name                     : &name "Yixin Chen"
 description              : &description "PhD Student"
-url                      : https://shuoxing98.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yxchen95.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shuoxing98/shuoxing98.github.io"
+repository               : "yxchen95/yxchen95.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['name', 'email', 'message'] # 'url'
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shuo Xing"
+  name             : "Yixin Chen"
   avatar           : "profile.jpg"
   bio              : "PhD Student @ Texas A&M University"
   location         : "Texas, United States"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=HYZvb-YAAAAJ"
-  email            : "shuoxing@tamu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=mBsT8EUAAAAJ&hl=en&authuser=1"
+  email            : "chen777@tamu.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shuoxing98"
+  github           : "yxchen95"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-5585-6215"
+  orcid            : #"https://orcid.org/0000-0002-5585-6215"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
