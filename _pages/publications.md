@@ -6,7 +6,7 @@ author_profile: true
 ---
 <style scoped>
 table {
-  font-size: 13px;
+  font-size: 20px;
 }
 </style>
 
