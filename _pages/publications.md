@@ -4,7 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<style scoped>
+table {
+  font-size: 13px;
+}
+</style>
 
 {% include base_path %}
 
@@ -15,5 +19,6 @@ author_profile: true
 |AAAI|2023|DASH: A Distributed and Parallelizable Algorithm for Size-Constrained Submodular Maximization|Tonmoy Dey, Yixin Chen, Alan Kuhnle|
 |Preprint (arXiv)|2022|Practical and Parallelizable Algorithms for Non-Monotone Submodular Maximization with Size Constraint|Yixin Chen, Alan Kuhnle|
 |NeurIPS|2021|Best of Both Worlds: Practical and Theoretically Optimal Submodular Maximization in Parallel|Yixin Chen, Tonmoy Dey, Alan Kuhnle|
+|Preprint (arXiv)|2020|Graph neural lasso for dynamic network regression|Yixin Chen, Lin Meng, Jiawei Zhang
 
 <p>Note: &diams; indicates equal contribution.

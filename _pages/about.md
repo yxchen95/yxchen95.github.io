@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Yixin Chen"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
