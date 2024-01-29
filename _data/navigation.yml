@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "CSCE 656: Computers and New Media"
+    url: /csce656/
+
   # - title: "News"
   #   url: /news/  
 
