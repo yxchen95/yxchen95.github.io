@@ -12,9 +12,8 @@ redirect_from:
 ### Why I am in this class
 
 As a CS Ph.D student, I am interested in the evolution of new media
-and how they influence the narrative.
-I want to learn how computer science are contributed to new media
-and how new technologies shape people's life.
+and its impact on narrative structures. 
+I want to know the role of computer science in shaping and contributing to the realm of new media, exploring the ways in which emerging technologies influence and reshape the fabric of people's lives.
   
 ### List of media I frequently use
 
