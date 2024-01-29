@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Spring 2024 CSCE656"
+title: "CSCE 656: Computers and New Media"
 permalink: /csce656/
 author_profile: true
 redirect_from:
