@@ -4,10 +4,12 @@ title: "CSCE 656: Computers and New Media"
 permalink: /csce656/
 author_profile: true
 redirect_from:
-  - /resume
+  - /csce656
 ---
 
 {% include base_path %}
+
+[Assignment 2](https://yxchen95.github.io//csce656-2/)
 
 ### Why I am in this class
 
