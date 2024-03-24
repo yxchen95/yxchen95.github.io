@@ -6,6 +6,9 @@ main:
   - title: "CSCE656 Spring 2024"
     url: /csce656/
 
+  - title: "DEMO"
+    url: /demo/
+
   # - title: "News"
   #   url: /news/  
 
