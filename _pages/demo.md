@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="https://prezi.com/p/embed/sx1SzbP1AMHoXRmTuU3J/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="315" width="560"></iframe>
+<iframe src="https://yxchen95.github.io/files/Prezi.portable-v633" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="630" width="1120"></iframe>
