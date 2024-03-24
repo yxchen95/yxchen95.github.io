@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<script async src="https://e.prezicdn.net/v1/design.js"></script> <div class="prezi-design-embed" data-project-id="rfg6dEk4YAGpxFDFisbM"></div>
+<iframe src="https://prezi.com/p/embed/sx1SzbP1AMHoXRmTuU3J/" id="iframe_container" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" allow="autoplay; fullscreen" height="315" width="560"></iframe>
