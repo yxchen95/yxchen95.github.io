@@ -41,7 +41,7 @@ Prior that, I received my Master of Science degree in Statistics at [University 
 ## Publications
 
 <!-- ### Peer-reviewed Conference & Journal -->
-
+Note: <sup>&#9733;</sup> indicates equal contribution.
 <ol reversed>
   <li>Discretely Beyond $1/e$: Guided Combinatorial Algorithms for Submodular Maximization<br>
   Yixin Chen, Ankur Nath, Chunli Peng, Alan Kuhnle<br>
