@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Yixin Chen"
 excerpt: "About"
 author_profile: true
 redirect_from: 
@@ -37,25 +37,42 @@ Prior that, I received my Master of Science degree in Statistics at [University 
 * **M.S.** in Statistics, University of Wisconsin Madison, 2017 -- 2019
 * **B.S.** in Mathematics and Applied Mathematics, Nankai University, 2014 -- 2018
 
-<!-- 
+
 ## Publications
 
-### Peer-reviewed Conference & Journal
+<!-- ### Peer-reviewed Conference & Journal -->
 
-<a href="https://www.mdpi.com/2075-1680/12/4/389" target="_blank"><img src="https://img.shields.io/badge/Axioms-2023-blue?style=flat-square"></a> Chunfang Shao, Xiujie Wei, Peixin Ye, and <u>Shuo Xing</u><sup>&spades;</sup>.  &quot;**Efficiency of Orthogonal Matching Pursuit for Group Sparse Recovery**&quot;. In *Axioms*. 
+<ol reversed>
+  <li>Discretely Beyond $1/e$: Guided Combinatorial Algorithms for Submodular Maximization<br>
+  Yixin Chen, Ankur Nath, Chunli Peng, Alan Kuhnle<br>
+  Preprint (arXiv) 2024 <a href="https://arxiv.org/abs/2405.05202" target="_blank"><img src="https://img.shields.io/badge/arXiv-green?style=flat-square"></a></li>
 
-<a href="https://www.worldscientific.com/doi/10.1142/S0219691322500485" target="_blank"><img src="https://img.shields.io/badge/IJWMIP-2022-blue?style=flat-square"></a> Wenhui Zhang, Peixin Ye, and <u>Shuo Xing</u>. &quot;**Optimality of the Rescaled Pure Greedy Learning Algorithm**&quot;. In *International Journal of Wavelets, Multiresolution and Information Processing*. 
+  <li>Scalable Distributed Algorithms for Size-Constrained Submodular Maximization in the MapReduce and Adaptive Complexity Models<br>
+  Yixin Chen<sup>&#9733;</sup>, Tonmoy Dey<sup>&#9733;</sup>, Alan Kuhnle<br>
+  JAIR 2024 <a href="https://jair.org/index.php/jair/article/view/15484" target="_blank"><img src="https://img.shields.io/badge/link-blue?style=flat-square"></a> <a href="https://arxiv.org/abs/2206.09563" target="_blank"><img src="https://img.shields.io/badge/arXiv-green?style=flat-square"></a></li>
+  
+  <li>Practical and Parallelizable Algorithms for Non-Monotone Submodular Maximization with Size Constraint<br>
+  Yixin Chen, Alan Kuhnle<br>
+  JAIR 2024 <a href="https://jair.org/index.php/jair/article/view/14323" target="_blank"><img src="https://img.shields.io/badge/link-blue?style=flat-square"></a> <a href="https://arxiv.org/abs/2009.01947" target="_blank"><img src="https://img.shields.io/badge/arXiv-green?style=flat-square"></a> <a href="https://gitlab.com/luciacyx/nm-adaptive-code.git" target="_blank"><img src="https://img.shields.io/badge/code-gray?style=flat-square"></a></li>
 
-<a href="https://www.mdpi.com/2075-1680/11/9/437" target="_blank"><img src="https://img.shields.io/badge/Axioms-2022-blue?style=flat-square"></a> Wenhui Zhang, Peixin Ye, <u>Shuo Xing</u>, and Xu Xu. &quot;**Optimality of the Approximation and Learning by the Rescaled Pure Super Greedy Algorithms**&quot;. In *Axioms*.
+  <li>Approximation Algorithms for Size-Constrained Non-Monotone Submodular Maximization in Deterministic Linear Time<br>
+  Yixin Chen, Alan Kuhnle<br>
+  KDD 2023 <a href="https://dl.acm.org/doi/abs/10.1145/3580305.3599259" target="_blank"><img src="https://img.shields.io/badge/link-blue?style=flat-square"></a> <a href="https://arxiv.org/abs/2104.06873" target="_blank"><img src="https://img.shields.io/badge/arXiv-green?style=flat-square"></a> <a href="https://gitlab.com/luciacyx/dtm-linear-code.git" target="_blank"><img src="https://img.shields.io/badge/code-gray?style=flat-square"></a></li>
 
-<a href="https://www.mdpi.com/2075-1680/11/5/186" target="_blank"><img src="https://img.shields.io/badge/Axioms-2022-blue?style=flat-square"></a> Chunfang Shao, Jincai Chang, Peixin Ye, Wenhui Zhang, and <u>Shuo Xing</u>. &quot;**Almost Optimality of the Orthogonal Super Greedy Algorithm for $μ$-Coherent Dictionaries**&quot;. In *Axioms*.
+  <li>DASH: A Distributed and Parallelizable Algorithm for Size-Constrained Submodular Maximization<br>
+  Tonmoy Dey, Yixin Chen, Alan Kuhnle<br>
+  AAAI 2023 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25508" target="_blank"><img src="https://img.shields.io/badge/link-blue?style=flat-square"></a> <a href="https://arxiv.org/abs/2206.09563" target="_blank"><img src="https://img.shields.io/badge/arXiv-green?style=flat-square"></a></li>
 
-### Preprints
+  <li>Best of Both Worlds: Practical and Theoretically Optimal Submodular Maximization in Parallel<br>
+  Yixin Chen, Tonmoy Dey, Alan Kuhnle<br>
+  NeurIPS 2021 <a href="https://proceedings.neurips.cc/paper/2021/hash/d63fbf8c3173730f82b150c5ef38b8ff-Abstract.html" target="_blank"><img src="https://img.shields.io/badge/link-blue?style=flat-square"></a> <a href="https://arxiv.org/abs/2111.07917" target="_blank"><img src="https://img.shields.io/badge/arXiv-green?style=flat-square"></a> <a href="https://gitlab.com/deytonmoy000/submodular-bestofbothworlds" target="_blank"><img src="https://img.shields.io/badge/code-gray?style=flat-square"></a></li>
 
-<a href="https://arxiv.org/abs/2312.00155" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023-blue?style=flat-square"></a> Wenjing Chen, <u>Shuo Xing</u>, and Victoria G. Crawford. &quot;**A Threshold Greedy Algorithm for Noisy Submodular Maximization**&quot;. In *arXiv*.
+  <li>Graph neural lasso for dynamic network regression<br>
+  Yixin Chen, Lin Meng, Jiawei Zhang<br>
+  Preprint (arXiv) 2020 <a href="https://arxiv.org/abs/1907.11114" target="_blank"><img src="https://img.shields.io/badge/arXiv-green?style=flat-square"></a></li>
+</ol>
 
-<a href="https://arxiv.org/abs/2311.08364" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023-blue?style=flat-square"></a> Rui Pan<sup>&diams;</sup>, <u>Shuo Xing</u><sup>&diams;</sup>, Shizhe Diao, Xiang Liu, Kashun Shum, Jipeng Zhang, and Tong Zhang. &quot;**Plum: Prompt Learning using Metaheuristic**&quot;. In *arXiv*. 
- -->
+
 
 <!-- ### Manuscript & Submission
 
