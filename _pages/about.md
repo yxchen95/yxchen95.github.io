@@ -45,7 +45,7 @@ Note: <sup>&#9733;</sup> indicates equal contribution.
 <ol reversed>
   <li>Discretely Beyond $1/e$: Guided Combinatorial Algorithms for Submodular Maximization<br>
   <u>Yixin Chen</u>, Ankur Nath, Chunli Peng, Alan Kuhnle<br>
-  NeurIPS 2024 <a href="https://arxiv.org/abs/2405.05202" target="_blank"><img src="https://img.shields.io/badge/arXiv-green?style=flat-square"></a> <a href="https://gitlab.com/luciacyx/guided-rg.git" target="_blank"><img src="https://img.shields.io/badge/code-gray?style=flat-square"></a></li>
+  NeurIPS 2024 <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/c4e40d310af1be55f2c0f32cb16a9a16-Abstract-Conference.html" target="_blank"><img src="https://img.shields.io/badge/link-blue?style=flat-square"></a> <a href="https://arxiv.org/abs/2405.05202" target="_blank"><img src="https://img.shields.io/badge/arXiv-green?style=flat-square"></a> <a href="https://gitlab.com/luciacyx/guided-rg.git" target="_blank"><img src="https://img.shields.io/badge/code-gray?style=flat-square"></a></li>
 
   <li>Scalable Distributed Algorithms for Size-Constrained Submodular Maximization in the MapReduce and Adaptive Complexity Models<br>
   <u>Yixin Chen</u><sup>&#9733;</sup>, Tonmoy Dey<sup>&#9733;</sup>, Alan Kuhnle<br>
