@@ -45,7 +45,7 @@ Note: <sup>&#9733;</sup> indicates equal contribution.
 <ol reversed>
   <li>Practical submodular maximization: A primer.<br>
   <u>Yixin Chen</u>, Alan Kuhnle<br>
-  Springer, New York, NY <a href="https://link.springer.com/referenceworkentry/10.1007/978-1-4614-6624-6_89-1" target="_blank"><img src="https://img.shields.io/badge/link-blue?style=flat-square"></a></li>
+  Handbook of Combinatorial Optimization. Springer, New York, NY. 2025 <a href="https://link.springer.com/referenceworkentry/10.1007/978-1-4614-6624-6_89-1" target="_blank"><img src="https://img.shields.io/badge/link-blue?style=flat-square"></a></li>
 
   <li>Discretely Beyond $1/e$: Guided Combinatorial Algorithms for Submodular Maximization<br>
   <u>Yixin Chen</u>, Ankur Nath, Chunli Peng, Alan Kuhnle<br>
