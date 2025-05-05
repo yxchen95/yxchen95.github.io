@@ -45,7 +45,7 @@ Note: <sup>&#9733;</sup> indicates equal contribution.
 <ol reversed>
   <li>Breaking Barriers: Combinatorial Algorithms for Non-monotone Submodular Maximization with Sublinear Adaptivity and $1/e$ Approximation<br>
   <u>Yixin Chen</u>, Wenjing Chen, Alan Kuhnle<br>
-  ArXiv Preprint  <a href="https://arxiv.org/abs/2502.07062" target="_blank"><img src="https://img.shields.io/badge/arXiv-green?style=flat-square"></a> </li>
+  ICML 2025  <a href="https://arxiv.org/abs/2502.07062" target="_blank"><img src="https://img.shields.io/badge/arXiv-green?style=flat-square"></a> </li>
 
   <li>Practical submodular maximization: A primer.<br>
   <u>Yixin Chen</u>, Alan Kuhnle<br>
