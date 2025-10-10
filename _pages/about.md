@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student in Computer Science at [Texas A&M University](https://www.tamu.edu/), advised by Dr. [Alan Kuhnle](https://www.alankuhnle.com). 
+I am a PhD candidate in Computer Science at [Texas A&M University](https://www.tamu.edu/), advised by Dr. [Alan Kuhnle](https://www.alankuhnle.com). 
 Prior that, I received my Master of Science degree in Statistics at [University of Wisconsin-Madison](https://www.wisc.edu), and Bachelor of Science degree in Mathematics and Applied Mathematics at [Nankai University](https://en.nankai.edu.cn).
 <!-- My research focuses on  -->
 
@@ -45,7 +45,7 @@ Note: <sup>&#9733;</sup> indicates equal contribution.
 <ol reversed>
   <li>Breaking Barriers: Combinatorial Algorithms for Non-monotone Submodular Maximization with Sublinear Adaptivity and $1/e$ Approximation<br>
   <u>Yixin Chen</u>, Wenjing Chen, Alan Kuhnle<br>
-  ICML 2025  <a href="https://arxiv.org/abs/2502.07062" target="_blank"><img src="https://img.shields.io/badge/arXiv-green?style=flat-square"></a> </li>
+  ICML 2025  <a href="https://arxiv.org/abs/2502.07062" target="_blank"><img src="https://img.shields.io/badge/arXiv-green?style=flat-square"></a> <a href="https://gitlab.com/luciacyx/size-constraints-parallel-algorithms" target="_blank"><img src="https://img.shields.io/badge/code-gray?style=flat-square"></a> </li>
 
   <li>Practical submodular maximization: A primer.<br>
   <u>Yixin Chen</u>, Alan Kuhnle<br>
