@@ -43,6 +43,14 @@ Prior that, I received my Master of Science degree in Statistics at [University 
 <!-- ### Peer-reviewed Conference & Journal -->
 Note: <sup>&#9733;</sup> indicates equal contribution.
 <ol reversed>
+  <li>Learning Strategic Value and Cooperation in Multi-Player Stochastic Games through Side Payments<br>
+  <u>Yixin Chen</u>, Jeffrey Richley, Darleen Perez-Lavin, Jessica Singh Syal, Solmaz Kia, Alan Kuhnle<br>
+  Preprint (arXiv) 2026 <a href="https://arxiv.org/abs/2303.05307" target="_blank"><img src="https://img.shields.io/badge/arXiv-green?style=flat-square"></a> <a href="https://github.com/yxchen95/Coco-HS-Experiment.git" target="_blank"><img src="https://img.shields.io/badge/code-gray?style=flat-square"></a> </li>
+
+  <li>Primer design through submodular function estimation<br>
+  <u>Yixin Chen</u>, Yunheng Han, Ao Wang, Aaron Hong, Adam R. Rivers, Alan Kuhnle, Christina Boucher<br>
+  Bioinformatics 2026 <a href="https://academic.oup.com/bioinformatics/article/42/7/btag478/8722296" target="_blank"><img src="https://img.shields.io/badge/link-blue?style=flat-square"></a> </li>
+
   <li>Breaking Barriers: Combinatorial Algorithms for Non-monotone Submodular Maximization with Sublinear Adaptivity and $1/e$ Approximation<br>
   <u>Yixin Chen</u>, Wenjing Chen, Alan Kuhnle<br>
   ICML 2025 <a href="https://proceedings.mlr.press/v267/chen25i.html" target="_blank"><img src="https://img.shields.io/badge/link-blue?style=flat-square"></a> <a href="https://arxiv.org/abs/2502.07062" target="_blank"><img src="https://img.shields.io/badge/arXiv-green?style=flat-square"></a> <a href="https://gitlab.com/luciacyx/size-constraints-parallel-algorithms" target="_blank"><img src="https://img.shields.io/badge/code-gray?style=flat-square"></a> </li>
