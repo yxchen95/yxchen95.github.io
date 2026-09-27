@@ -43,6 +43,10 @@ Prior that, I received my Master of Science degree in Statistics at [University 
 <!-- ### Peer-reviewed Conference & Journal -->
 Note: <sup>&#9733;</sup> indicates equal contribution.
 <ol reversed>
+  <li>Curvature Beyond Positivity: Greedy Guarantees for Arbitrary Submodular Functions<br>
+  <u>Yixin Chen</u>, Alan Kuhnle<br>
+  NeurIPS 2026 <a href="https://arxiv.org/abs/2605.07902" target="_blank"><img src="https://img.shields.io/badge/arXiv-green?style=flat-square"></a> </li>
+
   <li>Learning Strategic Value and Cooperation in Multi-Player Stochastic Games through Side Payments<br>
   <u>Yixin Chen</u>, Jeffrey Richley, Darleen Perez-Lavin, Jessica Singh Syal, Solmaz Kia, Alan Kuhnle<br>
   Preprint (arXiv) 2026 <a href="https://arxiv.org/abs/2303.05307" target="_blank"><img src="https://img.shields.io/badge/arXiv-green?style=flat-square"></a> <a href="https://github.com/yxchen95/Coco-HS-Experiment.git" target="_blank"><img src="https://img.shields.io/badge/code-gray?style=flat-square"></a> </li>
